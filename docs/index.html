@@ -17,34 +17,28 @@
 <div class="results-heading"><h2>Oportunidades encontradas <span id="resultCount">0</span></h2><button id="exportCsv" class="outline">Exportar CSV</button></div><div id="cards" class="cards" aria-live="polite"></div><div class="pager"><button id="prev" class="outline">Anterior</button><span id="pageInfo">1 / 1</span><button id="next" class="outline">Próxima</button></div>
 </section>
 <section id="dashboard" class="view hidden terminal">
-<div class="terminal-shell">
-  <div class="terminal-topbar">
-    <div class="terminal-brand">
-      <div class="terminal-mark">RC</div>
-      <div><div class="terminal-kicker">RESEARCH & INNOVATION INTELLIGENCE</div><h1>Terminal estatístico</h1><p>Monitor histórico de oportunidades, instituições e modalidades de fomento.</p></div>
-    </div>
-    <div class="terminal-statusbar"><span class="status-pill"><i></i> SNAPSHOT</span><span class="status-meta" id="terminalUpdated">Última atualização: —</span></div>
+<div class="rt-shell">
+  <header class="rt-header">
+    <div class="rt-brand"><div class="rt-logo">RC</div><div class="rt-brand-text"><div class="rt-kicker">RESEARCH &amp; INNOVATION INTELLIGENCE</div><h1>Terminal estatístico</h1><p>Monitor histórico de oportunidades, instituições e modalidades de fomento.</p></div></div>
+    <div class="rt-status"><span class="rt-badge"><span class="rt-dot"></span> SNAPSHOT</span><span class="rt-updated" id="terminalUpdated">Última atualização: —</span></div>
+  </header>
+  <div class="rt-toolbar"><div class="rt-filters">
+    <label><span>Instituição</span><select id="dashInstitution"><option value="">Todas</option></select></label>
+    <label><span>Categoria</span><select id="dashCategory"><option value="">Todas</option></select></label>
+    <label><span>UF</span><select id="dashState"><option value="">Todas</option></select></label>
+  </div><span class="rt-toolbar-note">Indicadores baseados em registros identificados</span></div>
+  <div class="rt-kpis">
+    <article class="rt-kpi"><span class="rt-kpi-label">REGISTROS</span><strong id="kRecords">—</strong><small>Documentos identificados</small></article>
+    <article class="rt-kpi"><span class="rt-kpi-label">INSTITUIÇÕES</span><strong id="kAgencies">—</strong><small>Com registros</small></article>
+    <article class="rt-kpi"><span class="rt-kpi-label">STARTUPS &amp; INOVAÇÃO</span><strong id="kInnovation">—</strong><small>Registros classificados</small></article>
+    <article class="rt-kpi"><span class="rt-kpi-label">FONTES OPERACIONAIS</span><strong id="kCoverage">—</strong><small>Sucesso na última execução</small></article>
   </div>
-  <div class="terminal-toolbar">
-    <div class="terminal-controls">
-      <label>Instituição<select id="dashInstitution"><option value="">Todas</option></select></label>
-      <label>Categoria<select id="dashCategory"><option value="">Todas</option></select></label>
-      <label>UF<select id="dashState"><option value="">Todas</option></select></label>
-    </div>
-    <span class="terminal-caption">Indicadores baseados em registros identificados</span>
-  </div>
-  <div class="terminal-kpis">
-    <article class="terminal-kpi"><span class="kpi-label">REGISTROS</span><strong id="kRecords">—</strong><small>Documentos identificados</small></article>
-    <article class="terminal-kpi"><span class="kpi-label">INSTITUIÇÕES</span><strong id="kAgencies">—</strong><small>Com registros</small></article>
-    <article class="terminal-kpi"><span class="kpi-label">STARTUPS & INOVAÇÃO</span><strong id="kInnovation">—</strong><small>Registros classificados</small></article>
-    <article class="terminal-kpi"><span class="kpi-label">FONTES OPERACIONAIS</span><strong id="kCoverage">—</strong><small>Sucesso na última execução</small></article>
-  </div>
-  <div class="terminal-grid">
-    <section class="terminal-card terminal-card-main"><div class="terminal-card-head"><div><h2>Detecções por mês</h2><span>Data de primeira identificação</span></div></div><div id="timeChart" class="chart chart-lg"></div></section>
-    <section class="terminal-card"><div class="terminal-card-head"><div><h2>Ranking institucional</h2><span>Quantidade de registros</span></div></div><div id="rankChart" class="chart chart-md"></div></section>
-    <section class="terminal-card"><div class="terminal-card-head"><div><h2>Distribuição por categoria</h2><span>Não representa vagas concedidas</span></div></div><div id="categoryChart" class="chart chart-md"></div></section>
-    <section class="terminal-card"><div class="terminal-card-head"><div><h2>Distribuição por UF</h2><span>BR = alcance nacional</span></div></div><div id="ufChart" class="chart chart-md"></div></section>
-    <section class="terminal-card terminal-card-table"><div class="terminal-card-head"><div><h2>Monitor de registros</h2><span>Oportunidades e documentação original</span></div></div><div class="terminal-table-wrap"><table id="terminalTable" class="terminal-table"><thead><tr><th>INSTITUIÇÃO</th><th>OPORTUNIDADE</th><th>MODALIDADE</th><th>UF</th><th>VALOR</th><th>STATUS</th></tr></thead><tbody></tbody></table></div></section>
+  <div class="rt-grid">
+    <section class="rt-card rt-card-wide"><div class="rt-card-head"><h2>Detecções por mês</h2><p>Data de primeira identificação</p></div><div id="timeChart" class="rt-chart rt-chart-lg"></div></section>
+    <section class="rt-card"><div class="rt-card-head"><h2>Ranking institucional</h2><p>Quantidade de registros</p></div><div id="rankChart" class="rt-chart rt-chart-md"></div></section>
+    <section class="rt-card"><div class="rt-card-head"><h2>Distribuição por categoria</h2><p>Não representa vagas concedidas</p></div><div id="categoryChart" class="rt-chart rt-chart-md"></div></section>
+    <section class="rt-card"><div class="rt-card-head"><h2>Distribuição por UF</h2><p>BR = alcance nacional</p></div><div id="ufChart" class="rt-chart rt-chart-md"></div></section>
+    <section class="rt-card rt-card-table"><div class="rt-card-head"><h2>Monitor de registros</h2><p>Oportunidades e documentação original</p></div><div class="rt-table-wrap"><table id="terminalTable" class="rt-table"><thead><tr><th>INSTITUIÇÃO</th><th>OPORTUNIDADE</th><th>MODALIDADE</th><th>UF</th><th>VALOR</th><th>STATUS</th></tr></thead><tbody></tbody></table></div></section>
   </div>
 </div>
 </section>
