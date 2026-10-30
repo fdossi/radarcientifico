@@ -1,8 +1,10 @@
 {
-  "updated_at": null,
-  "records": 0,
-  "sources_total": 0,
-  "sources_ok": 0,
+  "updated_at": "2026-10-30T20:07:36.842572+00:00",
+  "records": 53,
+  "new_records": 53,
+  "sources_total": 3,
+  "sources_ok": 3,
+  "sources_catalogued": 42,
   "errors": [],
-  "note": "Aguardando primeira execução. Nenhuma oportunidade demonstrativa é apresentada como real."
+  "note": "Cobertura parcial; situações, valores e prazos devem ser conferidos na fonte oficial."
 }
