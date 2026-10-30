@@ -1,0 +1,380 @@
+[
+  {
+    "code": "serrapilheira",
+    "name": "Instituto Serrapilheira",
+    "uf": "BR",
+    "category": "privada",
+    "url": "https://serrapilheira.org/todas-as-chamadas/",
+    "mode": "wordpress",
+    "enabled": true
+  },
+  {
+    "code": "cnpq",
+    "name": "CNPq",
+    "uf": "BR",
+    "category": "federal",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/abertas-para-submissao",
+    "mode": "govbr",
+    "enabled": true
+  },
+  {
+    "code": "fapesp",
+    "name": "FAPESP",
+    "uf": "SP",
+    "category": "estadual",
+    "url": "https://fapesp.br/oportunidades/",
+    "mode": "fapesp",
+    "enabled": true
+  },
+  {
+    "code": "capes",
+    "name": "CAPES",
+    "uf": "BR",
+    "category": "federal",
+    "url": "https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/avaliacao/sobre-a-avaliacao/editais",
+    "mode": "govbr",
+    "enabled": false
+  },
+  {
+    "code": "fap-ac",
+    "name": "FAPAC",
+    "uf": "AC",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-al",
+    "name": "FAPEAL",
+    "uf": "AL",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ap",
+    "name": "FAPEAP",
+    "uf": "AP",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-am",
+    "name": "FAPEAM",
+    "uf": "AM",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ba",
+    "name": "FAPESB",
+    "uf": "BA",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ce",
+    "name": "FUNCAP",
+    "uf": "CE",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-df",
+    "name": "FAPDF",
+    "uf": "DF",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-es",
+    "name": "FAPES",
+    "uf": "ES",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-go",
+    "name": "FAPEG",
+    "uf": "GO",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ma",
+    "name": "FAPEMA",
+    "uf": "MA",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-mt",
+    "name": "FAPEMAT",
+    "uf": "MT",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ms",
+    "name": "FUNDECT",
+    "uf": "MS",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-mg",
+    "name": "FAPEMIG",
+    "uf": "MG",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-pa",
+    "name": "FAPESPA",
+    "uf": "PA",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-pb",
+    "name": "FAPESQ",
+    "uf": "PB",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-pr",
+    "name": "Fundação Araucária",
+    "uf": "PR",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-pe",
+    "name": "FACEPE",
+    "uf": "PE",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-pi",
+    "name": "FAPEPI",
+    "uf": "PI",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-rj",
+    "name": "FAPERJ",
+    "uf": "RJ",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-rn",
+    "name": "FAPERN",
+    "uf": "RN",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-rs",
+    "name": "FAPERGS",
+    "uf": "RS",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-ro",
+    "name": "FAPERO",
+    "uf": "RO",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-rr",
+    "name": "FAPERR",
+    "uf": "RR",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-sc",
+    "name": "FAPESC",
+    "uf": "SC",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-se",
+    "name": "FAPITEC",
+    "uf": "SE",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fap-to",
+    "name": "FAPT",
+    "uf": "TO",
+    "category": "estadual",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "finep",
+    "name": "FINEP",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "embrapii",
+    "name": "EMBRAPII",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "sebrae",
+    "name": "Sebrae",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "bndes",
+    "name": "BNDES",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "funbio",
+    "name": "FUNBIO",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "funda-o-grupo-botic-rio",
+    "name": "Fundação Grupo Boticário",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fiocruz",
+    "name": "Fiocruz",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "embrapa",
+    "name": "Embrapa",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "daad",
+    "name": "DAAD",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "euraxess",
+    "name": "EURAXESS",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "funda-o-humboldt",
+    "name": "Fundação Humboldt",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  },
+  {
+    "code": "fundo-amaz-nia",
+    "name": "Fundo Amazônia",
+    "uf": "BR",
+    "category": "parceira",
+    "url": null,
+    "mode": "planned",
+    "enabled": false
+  }
+]
