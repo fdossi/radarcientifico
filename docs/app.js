@@ -23,6 +23,7 @@ function draw(id,option){const dom=$(id);if(!window.echarts){dom.textContent="Gr
 const axis={axisLabel:{color:"#a6b8c9"},axisLine:{lineStyle:{color:"#41536b"}},splitLine:{lineStyle:{color:"#2c3a4d"}}};
 function dashboard(){const inst=$("dashInstitution").value,cat=$("dashCategory").value,uf=$("dashState").value;const rows=state.rows.filter(r=>(!inst||r.institution===inst)&&(!cat||r.category===cat)&&(!uf||r.uf===uf));
 $("kRecords").textContent=rows.length.toLocaleString("pt-BR");$("kAgencies").textContent=new Set(rows.map(r=>r.institution)).size;$("kInnovation").textContent=rows.filter(r=>["Inovação","Startups"].includes(r.category)).length;$("kCoverage").textContent=(state.status.sources_ok??0)+"/"+(state.status.sources_total??0);
+const stamp=$("terminalUpdated");if(stamp)stamp.textContent=state.status.updated_at?"Última atualização: "+new Date(state.status.updated_at).toLocaleString("pt-BR"):"Última atualização: —";
 const months=countBy(rows.map(r=>({...r,month:r.first_seen?.slice(0,7)||"Sem data"})),"month").sort((a,b)=>a[0].localeCompare(b[0]));
 const base={backgroundColor:"transparent",textStyle:{color:"#b9ccdb"},tooltip:{trigger:"axis"},grid:{left:55,right:22,top:28,bottom:48},xAxis:{type:"category",...axis},yAxis:{type:"value",minInterval:1,...axis}};
 draw("timeChart",{...base,xAxis:{...base.xAxis,data:months.map(x=>x[0])},series:[{type:"line",data:months.map(x=>x[1]),smooth:true,areaStyle:{color:"rgba(56,177,207,.12)"},lineStyle:{color:"#62d8e8",width:2},itemStyle:{color:"#62d8e8"}}]});
