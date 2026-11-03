@@ -1,5 +1,59 @@
 [
   {
+    "id": "f25a209dde64478ad1bd7e9d",
+    "institution": "CNPq",
+    "source_code": "cnpq",
+    "title": "Chamada Pública CNPq/MCTI N° 36/2026 - Apoio a cursos de curta duração em biodiversidade, no âmbito do Centro Franco-Brasileiro de Biodiversidade Amazônica (CFBBA)",
+    "url": "https://www.gov.br/cnpq/pt-br/chamadas/todas-as-chamadas/chamadas-2026/chamada-no-36-2026/chamada-publica-cnpq-N-36-2026",
+    "uf": "BR",
+    "category": "Fomento",
+    "level": null,
+    "published_at": null,
+    "deadline": null,
+    "amount_brl": null,
+    "award_count": null,
+    "status": "fonte_indica_aberto",
+    "first_seen": "2026-11-03T19:34:46.736132+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
+    "updated_at": "2026-11-03T19:34:46.736132+00:00"
+  },
+  {
+    "id": "5a22630cac6ab0eddbcb60c3",
+    "institution": "FAPESP",
+    "source_code": "fapesp",
+    "title": "Level 4-Technical Training Fellowship in Nitric Oxide Biology and MMPs Instituition: Faculdade de Medicina de Ribeirão Preto, Universidade de São Paulo (FMRP-USP) City: Ribeirão Preto Deadline for submissions: 2026-11-13 ...",
+    "url": "https://fapesp.br/oportunidades/interacao-entre-exposicao-a-metais-toxicos-e-ao-selenio-em-populacoes-ribeirinhas-amazonicas-impacto-em-marcadores-da-fisiopatologia-cardiovascular/9987",
+    "uf": "SP",
+    "category": "Bolsas",
+    "level": null,
+    "published_at": null,
+    "deadline": null,
+    "amount_brl": null,
+    "award_count": null,
+    "status": "fonte_indica_aberto",
+    "first_seen": "2026-11-03T19:34:46.736132+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
+    "updated_at": "2026-11-03T19:34:46.736132+00:00"
+  },
+  {
+    "id": "b0e364b85cb897c70b35e3ca",
+    "institution": "FAPESP",
+    "source_code": "fapesp",
+    "title": "Level 4A-Technical Training Fellowship in Remote Sensing and Machine Learning Instituition: Manaíba.tech City: Campinas Deadline for submissions: 2026-11-30 ...",
+    "url": "https://fapesp.br/oportunidades/plataforma-digital-de-monitoramento-e-inteligencia-agroflorestal/9988",
+    "uf": "SP",
+    "category": "Bolsas",
+    "level": null,
+    "published_at": null,
+    "deadline": null,
+    "amount_brl": null,
+    "award_count": null,
+    "status": "fonte_indica_aberto",
+    "first_seen": "2026-11-03T19:34:46.736132+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
+    "updated_at": "2026-11-03T19:34:46.736132+00:00"
+  },
+  {
     "id": "62d4075a4438db1b2f8d05f3",
     "institution": "Instituto Serrapilheira",
     "source_code": "serrapilheira",
@@ -14,7 +68,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -32,7 +86,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -50,7 +104,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -68,7 +122,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -86,7 +140,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -104,7 +158,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -122,7 +176,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -140,7 +194,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -158,7 +212,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -176,7 +230,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -194,7 +248,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -212,7 +266,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -230,7 +284,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -248,7 +302,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -266,7 +320,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -284,7 +338,7 @@
     "award_count": null,
     "status": "nao_verificado",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -302,7 +356,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -320,7 +374,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -338,7 +392,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -356,7 +410,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -374,7 +428,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -392,7 +446,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -410,7 +464,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -428,7 +482,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -446,7 +500,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -644,7 +698,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -662,7 +716,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -680,7 +734,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -698,7 +752,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -716,7 +770,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -734,7 +788,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -752,7 +806,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -770,7 +824,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -788,7 +842,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -806,7 +860,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -824,7 +878,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -842,7 +896,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -860,7 +914,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -878,7 +932,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -896,7 +950,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -914,7 +968,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -932,7 +986,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   },
   {
@@ -950,7 +1004,7 @@
     "award_count": null,
     "status": "fonte_indica_aberto",
     "first_seen": "2026-10-30T20:07:36.842572+00:00",
-    "last_seen": "2026-11-03T12:00:44.381233+00:00",
+    "last_seen": "2026-11-03T19:34:46.736132+00:00",
     "updated_at": "2026-10-30T20:07:36.842572+00:00"
   }
 ]
